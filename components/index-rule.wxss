@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 规则弹窗 */
+.index_popus{top: 10%}
+.index_popus{z-index: 2;position: fixed;left: 0;width: 100%;height: auto;max-width: 750rpx;margin: 0 auto;right: 0;}
+.index_popInner{width: 90%;height: 666rpx;margin: 0 auto;text-align: center;background: url(https://www.189.cn/client/wap/wapclient/prizequery/images/index_rulebg.png);background-size: 100% 100%;}
+.index_popInner .index_title{color: #ffe56b;text-align: center;font-size: 34rpx;font-weight: bold;padding-top: 112rpx;}
+.index_popInner .index_list{width: 82%;margin: 0 auto;color: #fff;font-size: 25rpx;text-align: left;height: 375rpx;padding-top: 29rpx;}
+.index_popInner .index_tip{padding-top: 42rpx;display: block;}
+.index_popInner view{line-height: 42rpx;display: inline-block;}
+.index_popInner view .index_listCon{margin-bottom: 3%;}
+.index_issue{color: #fee77d;font-size: 21rpx;margin-top: 3%}
+.index_close,.index_resClose{width: 10%;margin: 42rpx auto 0;display: block;}
+

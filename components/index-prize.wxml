@@ -1,0 +1,1 @@
+<view><view class="index_phoneBox"><view class="index_phoneIn"><view class="index_phoneTile">{{''+prizeArr1.title+''}}</view><view class="index_phoneList"><block wx:for="{{prizeArr1.prizeArr}}" wx:for-item="item" wx:for-index="index" wx:key="index"><text>{{item}}</text></block></view></view></view></view>

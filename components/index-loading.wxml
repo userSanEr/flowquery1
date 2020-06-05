@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['switch_loading',['$event']]]]]}}" hidden="{{!(is_loading)}}" class="request-loading-view data-v-519ec060" bindtap="__e"><view class="loading-view data-v-519ec060"><view class="loading data-v-519ec060"></view></view></view>

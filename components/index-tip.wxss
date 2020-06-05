@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 提示弹窗 */
+.index_res{position: fixed;z-index: 2;top: 10%;left: 0;width: 100%;height: auto;max-width: 750rpx;margin: 0 auto;right: 0;}
+.index_resInner{width: 100%;height: 667rpx;background: url(https://www.189.cn/client/wap/wapclient/prizequery/images/index_resbg.png) top center;background-size: 100% 100%;margin: 0 auto;position: relative;}
+.index_resCon{width: 100%;margin: 21rpx auto 0;position: absolute;top: 37%;text-align: center;}
+.index_resPhone{width: 100%;margin: 0 auto;text-align: center;color: #fff;font-size: 29rpx;padding-top: 3%;}
+.index_resDesc{ width: 100%;margin: 0 auto;text-align: center;padding-top: 3%;color: #ffffff;font-size: 33rpx;font-weight: bold;}
+/* #ifdef H5 */
+.index_resTitle{width: 20%;padding-top: 42rpx;height: 20%;margin-top: 40rpx;}
+.index_resBtn{width: 30%;padding-top: 42rpx;height: 20rpx;margin-top: 60rpx;}
+/* #endif*/
+/* #ifdef MP-WEIXIN */
+.index_resTitle{width: 20%;padding-top: 42rpx;height: 40rpx;}
+.index_resBtn{width: 30%;padding-top: 42rpx;height: 60rpx;}
+/* #endif*/
+/* #ifndef H5 MP-WEIXIN*/
+.index_resTitle{width: 20%;padding-top: 42rpx;height: 20%;margin-top: 40rpx;}
+.index_resBtn{width: 30%;padding-top: 42rpx;height: 20rpx;margin-top: 60rpx;}
+/* #endif*/
+.index_resClose{width: 10%;margin: 42rpx auto 0;display: block;}
+.index_resTxt{color: #fff77c;}
+

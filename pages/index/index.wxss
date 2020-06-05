@@ -1,0 +1,29 @@
+
+image{width: 100%;}
+.index_content{width: 100%;height: 708rpx;background: url(https://www.189.cn/client/wap/wapclient/prizequery/images/index_bannerTwo.png);background-size: 100% 100%;margin-top: -15rpx;}
+
+
+
+
+/* 规则 */
+.index_rule{width: 15%;position: absolute;right: 1%;top: 0;}
+/* 输入框 */
+.index_box{width: 67%;margin: 0 auto;padding-top: 104rpx;}
+.index_tel,.index_chart{border-bottom: 1px solid #faf096;width: 85%;height: 82rpx;line-height: 82rpx;display: -webkit-box;display: -webkit-flex;display: flex;margin: 0 auto;}
+.index_icon image{width: 42rpx;margin-left: 8.2rpx;}
+.index_box input{color: #ba342f;height:100%;font-size: 32rpx;margin-left: 20.8rpx;border:none;background:none;outline: none; -webkit-appearance: none;}
+.index_jym{width: 92%;display: -webkit-box;display: -webkit-flex;display: flex;-webkit-box-align: center;-webkit-align-items: center;align-items: center;}
+.index_chart{width: 58%;margin-left: 8%;margin-top: 2%}
+.index_chartBtn{width: 38%;height: 62rpx;}
+.index_chartBtn image{width: 100%;height:64rpx;line-height: 64rpx;display: inline-block;}
+.index_getButton,.index_chartReget,.index_randomGray{font-size:25rpx;text-align: center; width: 188rpx; height:  63rpx; background: url(https://www.189.cn/client/wap/wapclient/prizequery/images/index_yzmbg.png) top center; background-size: 100% 100%;line-height:  63rpx}
+.index_chartReget{width: 100%;}
+/* 查询按钮 */
+.index_select{width: 100%;margin: 0 auto;text-align: center;}
+.index_selectBtn{width: 32%; margin: 5% auto 0;}
+/* 错误提示语 */
+.index_error{width: 49%;margin: 8.2rpx auto 0;font-size: 24rpx;color: #fff36b;height: 41rpx;line-height: 41rpx;}
+/* 蒙版 */
+.index_mask{position: fixed;left: 0;right: 0;margin: 0 auto;top: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.5);max-width: 750rpx;}
+.ng-class{pointer-events: none;}
+

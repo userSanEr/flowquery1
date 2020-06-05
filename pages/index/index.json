@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "大圣卡“赢5G手机”中奖结果查询",
+  "usingComponents": {
+    "index-prize": "/components/index-prize",
+    "index-rule": "/components/index-rule",
+    "index-tip": "/components/index-tip"
+  }
+}
